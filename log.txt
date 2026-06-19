@@ -1,0 +1,5 @@
+[2026-06-12 18:55:32] FUNCTION=add_expense | args=('food', 300.0) | kwargs={}
+[2026-06-12 19:31:30] FUNCTION=get_summary | args=() | kwargs={}
+[2026-06-12 19:59:53] FUNCTION=add_expense | args=('transport', 36.0) | kwargs={}
+[2026-06-12 20:00:08] FUNCTION=add_expense | args=('food', 100.0) | kwargs={}
+[2026-06-12 20:00:13] FUNCTION=get_summary | args=() | kwargs={}
